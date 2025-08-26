@@ -1,0 +1,5 @@
+dist/
+nmode_modules/
+
+.env
+.vscode/
