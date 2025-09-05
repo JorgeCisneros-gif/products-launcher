@@ -43,4 +43,4 @@ Si se hace al revés, se perderán las referencias de los sub-módulos en el rep
 
 1.  Clonar el repositorio
 2.  crear .en basado en el .env.template
-3. Ejecutar el comando `docker compose up --build`
+3. Ejecutar el comando `docker compose -f docker-compose.prod.yml up`
